@@ -1,0 +1,13 @@
+{
+  "name": "fukushima",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "7",
+  "maxzoom": "10",
+  "scale": "1.000000",
+  "bounds": [138.81773413, 36.66916690, 141.33677433, 38.11443213],
+  "profile": "mercator"
+}
